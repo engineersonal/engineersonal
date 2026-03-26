@@ -1,4 +1,3 @@
-# `engineersonal`
 
 <p align="center">
   <img src="./assets/chief-enterprise-architect-banner.svg" alt="Chief Enterprise Architect banner for engineersonal" width="100%" />
@@ -216,45 +215,6 @@ Technology Leader | Enterprise Architecture | Enterprise Integration | Cloud Mod
 Technology leader with deep experience in enterprise architecture, enterprise integration, and platform modernization. I focus on shaping scalable operating models, aligning technology with business goals, and leading transformation with clarity and execution discipline.
 ```
 
-## Boardroom-Ready Version
-
-If you want a more executive-facing tone for GitHub, LinkedIn, or portfolio use, this version is the strongest fit:
-
-### Executive Bio
-
-```text
-Senior technology leader focused on enterprise transformation, architecture strategy, integration modernization, and digital platform evolution. I work across business and technology boundaries to create scalable operating models, reduce complexity, and turn strategic priorities into executable roadmaps.
-```
-
-### Executive Headline
-
-```text
-Enterprise Technology Leader | Architecture Strategy | Integration Transformation | Platform Modernization
-```
-
-### Executive Positioning Themes
-
-- transformation leadership
-- enterprise-wide decision making
-- cross-functional influence
-- modernization strategy
-- integration-led business enablement
-- operating model design
-
-## Resume Summary
-
-```text
-Enterprise Architecture Leader with 18+ years of experience driving integration strategy, SAP transformation, platform modernization, and enterprise architecture across complex business landscapes. Skilled at aligning technology direction with business priorities, shaping target-state architectures, and leading modernization initiatives that improve agility, governance, and long-term operational resilience. Strong expertise in SAP Integration Suite, SAP BTP, API-led architecture, event-driven systems, and S/4HANA transformation, with a consistent focus on turning strategic vision into executable outcomes.
-```
-
-## Interview Introduction
-
-```text
-I am an Enterprise Architecture Leader with 18+ years of experience across integration strategy, SAP transformation, and platform modernization. My work has focused on connecting business priorities with scalable architecture decisions, simplifying enterprise landscapes, and building transformation roadmaps that organizations can actually execute. I am particularly interested in leadership roles where I can contribute at a broader strategic level across architecture, integration, and modernization.
-```
-
----
-
 ## Contact
 
 Open to leadership conversations in enterprise architecture, integration strategy, platform modernization, and transformation.
@@ -278,42 +238,3 @@ I am always happy to connect with professionals working across architecture, int
 
 ---
 
-## Recommended Pinned Repository Strategy
-
-For the strongest profile presentation, pin 6 repositories that reflect a balanced architecture identity:
-
-1. A flagship product or application with polished UX
-2. A cloud or platform engineering project
-3. An architecture reference implementation
-4. A modernization or integration-focused repository
-5. A reusable framework, template, or accelerator
-6. A documentation-heavy strategic repo that shows thought leadership
-
-## Recommended Featured Storyline
-
-Arrange your profile and pinned repositories so they tell this story:
-
-1. Leadership-ready enterprise architecture
-2. Integration and SAP transformation credibility
-3. Platform modernization depth
-4. Strategic thinking backed by execution
-
----
-
-## Visual Direction
-
-This profile is designed to communicate:
-
-- executive credibility
-- modern enterprise aesthetics
-- architecture authority
-- clarity over clutter
-
-If you want, this profile package can also be expanded with:
-
-- a dark-themed alternative banner
-- repository badges
-- a metrics section
-- architecture diagrams
-- a featured speaking or publications section
-- a more executive leadership edition with board/advisory positioning
