@@ -14,6 +14,8 @@
   <strong>SAP Integration Suite</strong> |
   <strong>API-led Architecture</strong> |
   <strong>Event-Driven Systems</strong> |
+  <strong>Agentic AI</strong> |
+  <strong>Automation</strong> |
   <strong>S/4HANA Transformation</strong>
 </p>
 
