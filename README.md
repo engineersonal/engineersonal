@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <strong>18+ Years</strong> |
+  <strong>19+ Years</strong> |
   <strong>SAP Integration Suite</strong> |
   <strong>API-led Architecture</strong> |
   <strong>Event-Driven Systems</strong> |
@@ -68,7 +68,7 @@ I am a technology leader with strong experience in enterprise architecture, ente
 
 If you are evaluating this profile for leadership roles, the clearest themes are:
 
-- 18+ years of enterprise technology experience
+- 19+ years of enterprise technology experience
 - enterprise architecture and integration leadership
 - SAP transformation and modernization depth
 - platform strategy with execution credibility
